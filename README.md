@@ -1,8 +1,20 @@
-# DATA-PIPELINE-DEVELOPMENT
+## DATA PIPELINE DEVELOPMENT 
+
+
+**NAME:**  KS ABDUL RAHAMAN 
+
+**INTERN ID:**  CT04DG2064
+
+**DOMAIN:**  DATA SCIENCE 
+
+ **DURATION:** 4 WEEKS
+
+  *MENTOR: *  NEELA SANTOSH
+
 
 The goal of this project is to create a robust and modular pipeline that processes raw data into a clean and model-ready format. This pipeline is particularly useful in real-world machine learning projects where data cleaning, transformation, and preprocessing are routine but crucial tasks.
 
-We use:
+# We use:
 
 Pandas for data handling
 
@@ -14,12 +26,10 @@ Optional: integration with joblib, pickle, or model training libraries for exten
 🧰 Python Libraries:
 Install necessary packages via pip:
 
-bash
-Copy code
+
 pip install pandas scikit-learn
 ✅ Required Libraries in Code:
-python
-Copy code
+
 import pandas as pd
 from sklearn.pipeline import Pipeline
 from sklearn.compose import ColumnTransformer
@@ -158,8 +168,12 @@ MLflow or DVC for tracking experiments
 
 Let me know if you want this entire project as a ready-to-run Python script or Jupyter notebook.
 
+## OUTPUT:1
+![Image](https://github.com/user-attachments/assets/2c1a69a6-4a34-4384-8d00-9680f433c298)
 
+## OUTPUT:2
 
+![Image](https://github.com/user-attachments/assets/3f8050e2-13d5-4c34-b36b-71bc4f39fbf7)
 
 
 
